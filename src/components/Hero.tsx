@@ -19,7 +19,7 @@ export const Hero = () => {
           <Button
             onClick={handleDownload}
             size="lg"
-            className="bg-primary hover:bg-primary/90 text-white px-12 py-8 text-xl rounded-xl shadow-lg transform transition-all duration-200 hover:scale-105 hover:shadow-xl active:scale-95"
+            className="bg-yellow-500 hover:bg-yellow-600 text-white px-12 py-8 text-xl rounded-xl shadow-lg transform transition-all duration-200 hover:scale-105 hover:shadow-xl active:scale-95"
           >
             Download Now
           </Button>
