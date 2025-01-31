@@ -1,4 +1,4 @@
-import { CheckCircle, Award, Shield } from "lucide-react";
+import { CheckCircle, Award, Shield, Users } from "lucide-react";
 
 const trustBadges = [
   {
